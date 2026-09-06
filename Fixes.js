@@ -7706,5 +7706,20 @@
                 "filename": "The.First.Berserker.Khazan.Crack.Only-voices38.rar"
             }
         ]
+   },
+	{
+        "appid": "2680010",
+        "name": "The First Berserker: Khazan",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2680010/header.jpg",
+        "fixes": [
+            {
+                "href": "https://buzzheavier.com/soumg1t8d9or",
+                "size": "146 MB",
+                "badges": [
+                    "Bypass"
+                ],
+                "filename": "The.First.Berserker.Khazan.Crack.Only-voices38.rar"
+            }
+        ]
     }
 ]
