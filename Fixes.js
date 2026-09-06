@@ -5,7 +5,7 @@
         "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/dbe86ebd2edb4c77d113e9e2feefeb90189fabc9/header_alt_assets_1.jpg?t=1779804342",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/007.first.light-voices38.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/007.first.light-voices38.zip",
                 "size": "210.5 MB",
                 "badges": [
                     "Bypass"
@@ -20,7 +20,7 @@
         "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/958520/e39894b763c81766e78374545e78dcff03bcdd4e/header.jpg?t=1781193618",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/33 Immortals.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/33 Immortals.zip",
                 "size": "22.2 MB",
                 "badges": [
                     "Online"
@@ -35,7 +35,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2202120/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/63 Days.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/63 Days.zip",
                 "size": "25.5 MB",
                 "badges": [
                     "Bypass"
@@ -50,7 +50,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/251570/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/7 Days to Die.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/7 Days to Die.zip",
                 "size": "13.8 MB",
                 "badges": [
                     "Online",
@@ -66,7 +66,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/752590/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/A Plague Tale Innocence Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/A Plague Tale Innocence Bypass.zip",
                 "size": "5.5 MB",
                 "badges": [
                     "Bypass",
@@ -82,7 +82,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1222700/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/A Way Out.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/A Way Out.zip",
                 "size": "205.5 MB",
                 "badges": [
                     "Online"
@@ -97,7 +97,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/427410/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Abiotic Factor.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Abiotic Factor.zip",
                 "size": "23.7 MB",
                 "badges": [
                     "Online"
@@ -112,7 +112,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1715280/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/AirportSim.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/AirportSim.zip",
                 "size": "9.9 MB",
                 "badges": [
                     "Bypass"
@@ -127,7 +127,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2683150/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Ale and Tale Tavern.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Ale and Tale Tavern.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -142,7 +142,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1549970/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Aliens Fireteam Elite.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Aliens Fireteam Elite.zip",
                 "size": "17.9 MB",
                 "badges": [
                     "Online"
@@ -157,7 +157,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1660080/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Aloft.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Aloft.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -172,7 +172,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2524700/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Altarium.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Altarium.zip",
                 "size": "26.3 MB",
                 "badges": [
                     "Online"
@@ -187,7 +187,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/270880/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/American Truck Simulator.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/American Truck Simulator.zip",
                 "size": "8.0 MB",
                 "badges": [
                     "Bypass"
@@ -202,7 +202,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/945360/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Among_Us_Freetp_Epic_Sign.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Among_Us_Freetp_Epic_Sign.zip",
                 "size": "1.2 MB",
                 "badges": [
                     "Online"
@@ -217,7 +217,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2788040/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Another Try 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Another Try 2.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -232,7 +232,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158370/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Aragami 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Aragami 2.zip",
                 "size": "7.3 MB",
                 "badges": [
                     "Online"
@@ -247,7 +247,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399830/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/ARK Survival Ascended.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/ARK Survival Ascended.zip",
                 "size": "43.8 MB",
                 "badges": [
                     "Online"
@@ -262,7 +262,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1874880/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Arma Reforger.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Arma Reforger.zip",
                 "size": "0.7 MB",
                 "badges": [
                     "Online"
@@ -277,7 +277,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1888160/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/ARMORED CORE VI FIRES OF RUBICON.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/ARMORED CORE VI FIRES OF RUBICON.zip",
                 "size": "11.4 MB",
                 "badges": [
                     "Bypass"
@@ -292,7 +292,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/33230/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Assassin's Creed II.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Assassin's Creed II.zip",
                 "size": "13.6 MB",
                 "badges": [
                     "Bypass"
@@ -307,7 +307,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3035570/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Assassins.Creed.Mirage-voices38.rar?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Assassins.Creed.Mirage-voices38.rar",
                 "size": "269.6 MB",
                 "badges": [
                     "Bypass"
@@ -322,7 +322,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2208920/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Assassin Creed Valhalla Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Assassin Creed Valhalla Bypass.zip",
                 "size": "301.1 MB",
                 "badges": [
                     "Bypass",
@@ -338,7 +338,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/48190/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Assassin Creed Brotherhood.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Assassin Creed Brotherhood.zip",
                 "size": "19.8 MB",
                 "badges": [
                     "Bypass"
@@ -353,7 +353,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/208480/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Assassin Creed III.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Assassin Creed III.zip",
                 "size": "15.0 MB",
                 "badges": [
                     "Bypass"
@@ -368,7 +368,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/242050/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Assassins Creed IV Black Flag Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Assassins Creed IV Black Flag Bypass.zip",
                 "size": "31.2 MB",
                 "badges": [
                     "Bypass"
@@ -383,7 +383,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/812140/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Assassin's Creed Odyssey 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Assassin's Creed Odyssey 2.zip",
                 "size": "135.0 MB",
                 "badges": [
                     "Bypass"
@@ -391,7 +391,7 @@
                 "filename": "Assassin's Creed Odyssey 2.zip"
             },
             {
-                "href": "https://generator.ryuu.lol/fixes/Assassin's Creed Odyssey 1.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Assassin's Creed Odyssey 1.zip",
                 "size": "1951.8 MB",
                 "badges": [
                     "Bypass"
@@ -406,7 +406,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/582160/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Assassin's Creed Origin Ubisoft Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Assassin's Creed Origin Ubisoft Bypass.zip",
                 "size": "811.9 MB",
                 "badges": [
                     "Bypass",
@@ -422,7 +422,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/201870/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Assassin's Creed Revelations Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Assassin's Creed Revelations Bypass.zip",
                 "size": "34.2 MB",
                 "badges": [
                     "Bypass"
@@ -437,7 +437,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/311560/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Assassin Creed Rogue.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Assassin Creed Rogue.zip",
                 "size": "10.6 MB",
                 "badges": [
                     "Bypass"
@@ -452,7 +452,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/368500/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Assassin's Creed Syndicate Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Assassin's Creed Syndicate Bypass.zip",
                 "size": "0.8 MB",
                 "badges": [
                     "Bypass",
@@ -469,7 +469,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/289650/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Assassin Creed Unity.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Assassin Creed Unity.zip",
                 "size": "0.7 MB",
                 "badges": [
                     "Bypass"
@@ -484,7 +484,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/361420/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/ASTRONEER.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/ASTRONEER.zip",
                 "size": "22.2 MB",
                 "badges": [
                     "Online",
@@ -500,7 +500,7 @@
         "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2924860/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Astrumis - Survive Together.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Astrumis - Survive Together.zip",
                 "size": "26.2 MB",
                 "badges": [
                     "Online"
@@ -515,7 +515,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/449800/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Attack on Titan A.O.T Wings of Freedom.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Attack on Titan A.O.T Wings of Freedom.zip",
                 "size": "4.2 MB",
                 "badges": [
                     "Bypass"
@@ -530,7 +530,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1066890/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Automobilista 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Automobilista 2.zip",
                 "size": "10.2 MB",
                 "badges": [
                     "Bypass"
@@ -545,7 +545,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3140990/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Backrooms Cleanup Crew.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Backrooms Cleanup Crew.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -560,7 +560,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2275020/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Backrooms Rec.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Backrooms Rec.zip",
                 "size": "9.5 MB",
                 "badges": [
                     "Online"
@@ -575,7 +575,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2141730/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Backrooms Escape Together.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Backrooms Escape Together.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -590,7 +590,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2835530/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Backrooms Extractions.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Backrooms Extractions.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -605,7 +605,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1086940/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Baldur's Gate 3.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Baldur's Gate 3.zip",
                 "size": "0.4 MB",
                 "badges": [
                     "Bypass"
@@ -620,7 +620,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1025600/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Battle Realms Zen Edition.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Battle Realms Zen Edition.zip",
                 "size": "8.0 MB",
                 "badges": [
                     "Online"
@@ -635,7 +635,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1331510/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Battle Talent.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Battle Talent.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Bypass"
@@ -650,7 +650,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1238820/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Battlefield 3.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Battlefield 3.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -665,7 +665,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1238860/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Battlefield 4T.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Battlefield 4T.zip",
                 "size": "16.4 MB",
                 "badges": [
                     "Online"
@@ -680,7 +680,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1238840/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/BattlefieldT 1 Revolution.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/BattlefieldT 1 Revolution.zip",
                 "size": "88.4 MB",
                 "badges": [
                     "Online"
@@ -695,7 +695,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1238810/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Battlefield V.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Battlefield V.zip",
                 "size": "95.9 MB",
                 "badges": [
                     "Online"
@@ -710,7 +710,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/284160/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/BeamNG.Drive.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/BeamNG.Drive.zip",
                 "size": "12.2 MB",
                 "badges": [
                     "Bypass"
@@ -725,7 +725,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3130340/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Bean There, Won That.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Bean There, Won That.zip",
                 "size": "20.2 MB",
                 "badges": [
                     "Online"
@@ -740,7 +740,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/620980/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Beat Saber.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Beat Saber.zip",
                 "size": "9.9 MB",
                 "badges": [
                     "Bypass"
@@ -755,7 +755,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1812450/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Bellwright.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Bellwright.zip",
                 "size": "10.0 MB",
                 "badges": [
                     "Bypass"
@@ -770,7 +770,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/509980/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/BIGFOOT.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/BIGFOOT.zip",
                 "size": "23.9 MB",
                 "badges": [
                     "Online"
@@ -785,7 +785,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2358720/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Bl4ck.Myth.Wukong.CRACKFIXandFIX-voices38.rar?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Bl4ck.Myth.Wukong.CRACKFIXandFIX-voices38.rar",
                 "size": "228.7 MB",
                 "badges": [
                     "Bypass"
@@ -800,7 +800,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158940/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Blazing Sails.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Blazing Sails.zip",
                 "size": "5.1 MB",
                 "badges": [
                     "Online"
@@ -815,7 +815,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1689620/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/BLEACH Rebirth Of Souls.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/BLEACH Rebirth Of Souls.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -830,7 +830,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2790330/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Blood Typers.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Blood Typers.zip",
                 "size": "10.0 MB",
                 "badges": [
                     "Bypass"
@@ -845,7 +845,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/992300/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Bloody Spell.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Bloody Spell.zip",
                 "size": "5.0 MB",
                 "badges": [
                     "Bypass"
@@ -860,7 +860,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/871540/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/BMX Streets.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/BMX Streets.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Bypass"
@@ -875,7 +875,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2406770/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Bodycam.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Bodycam.zip",
                 "size": "9.5 MB",
                 "badges": [
                     "Online"
@@ -890,7 +890,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/49520/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Borderlands 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Borderlands 2.zip",
                 "size": "5.0 MB",
                 "badges": [
                     "Online"
@@ -905,7 +905,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/397540/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Borderlands 3.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Borderlands 3.zip",
                 "size": "21.2 MB",
                 "badges": [
                     "Online"
@@ -920,7 +920,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/8980/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Borderlands GOTY.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Borderlands GOTY.zip",
                 "size": "10.9 MB",
                 "badges": [
                     "Online"
@@ -935,7 +935,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/261640/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Borderlands The Pre-Sequel.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Borderlands The Pre-Sequel.zip",
                 "size": "5.0 MB",
                 "badges": [
                     "Online"
@@ -950,7 +950,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2235150/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Brain Show Party Quiz.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Brain Show Party Quiz.zip",
                 "size": "9.2 MB",
                 "badges": [
                     "Online"
@@ -965,7 +965,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1354260/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Brave Escape.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Brave Escape.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Online"
@@ -980,7 +980,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2835570/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Buckshot Roulette.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Buckshot Roulette.zip",
                 "size": "11.3 MB",
                 "badges": [
                     "Online",
@@ -996,7 +996,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2780470/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Bunker Invaders.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Bunker Invaders.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -1011,7 +1011,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3408110/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Cafemart Simulator.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Cafemart Simulator.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Bypass"
@@ -1026,7 +1026,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/7940/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Call of Duty 4 Modern Warfare.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Call of Duty 4 Modern Warfare.zip",
                 "size": "1.4 MB",
                 "badges": [
                     "Online"
@@ -1041,7 +1041,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/42700/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Call of Duty - Black Ops.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Call of Duty - Black Ops.zip",
                 "size": "13.4 MB",
                 "badges": [
                     "Online"
@@ -1056,7 +1056,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1985810/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Call of Duty Black Ops Cold War.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Call of Duty Black Ops Cold War.zip",
                 "size": "31.3 KB",
                 "badges": [
                     "Online"
@@ -1071,7 +1071,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/202970/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Call of DutyR Black Ops II.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Call of DutyR Black Ops II.zip",
                 "size": "4.3 MB",
                 "badges": [
                     "Online"
@@ -1079,7 +1079,7 @@
                 "filename": "Call of DutyR Black Ops II.zip"
             },
             {
-                "href": "https://generator.ryuu.lol/fixes/Black Ops II.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Black Ops II.zip",
                 "size": "4.3 MB",
                 "badges": [
                     "Online"
@@ -1094,7 +1094,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/311210/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Call of Duty Black Ops III.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Call of Duty Black Ops III.zip",
                 "size": "1.3 MB",
                 "badges": [
                     "Online",
@@ -1110,7 +1110,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/209160/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Call of Duty Ghosts.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Call of Duty Ghosts.zip",
                 "size": "5.3 MB",
                 "badges": [
                     "Online"
@@ -1125,7 +1125,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/292730/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Call of Duty Infinite Warfare.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Call of Duty Infinite Warfare.zip",
                 "size": "4.9 MB",
                 "badges": [
                     "Online"
@@ -1140,7 +1140,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2000950/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Call of Duty Modern Warfare (2019).zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Call of Duty Modern Warfare (2019).zip",
                 "size": "15.6 MB",
                 "badges": [
                     "Online"
@@ -1155,7 +1155,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/10180/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Call of Duty Modern Warfare 2 (2009).zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Call of Duty Modern Warfare 2 (2009).zip",
                 "size": "2.0 MB",
                 "badges": [
                     "Online"
@@ -1170,7 +1170,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/115300/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Call of Duty Modern Warfare 3 (2011).zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Call of Duty Modern Warfare 3 (2011).zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -1185,7 +1185,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1985820/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Call of Duty Vanguard.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Call of Duty Vanguard.zip",
                 "size": "24.5 MB",
                 "badges": [
                     "Online"
@@ -1200,7 +1200,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/476600/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Call Of Duty WWII.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Call Of Duty WWII.zip",
                 "size": "10.8 MB",
                 "badges": [
                     "Online"
@@ -1215,7 +1215,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/400750/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Call to Arms Gates of Hell Ostfront.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Call to Arms Gates of Hell Ostfront.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -1230,7 +1230,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2400430/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Capcom Fighting Collection 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Capcom Fighting Collection 2.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -1245,7 +1245,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2248760/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Car For Sale Simulator 2023.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Car For Sale Simulator 2023.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -1260,7 +1260,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3501070/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/CarServiceTogether_Fix_Repair_Steam_V2_Generic.rar?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/CarServiceTogether_Fix_Repair_Steam_V2_Generic.rar",
                 "size": "20.5 MB",
                 "badges": [
                     "Online"
@@ -1275,7 +1275,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2457540/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Cardfight!! Vanguard Dear Days 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Cardfight!! Vanguard Dear Days 2.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Online"
@@ -1290,7 +1290,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3263320/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Carry The Glass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Carry The Glass.zip",
                 "size": "11.4 MB",
                 "badges": [
                     "Online"
@@ -1305,7 +1305,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/635260/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/CarX Drift Racing.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/CarX Drift Racing.zip",
                 "size": "3.0 MB",
                 "badges": [
                     "Online"
@@ -1320,7 +1320,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1114150/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/CarX Street.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/CarX Street.zip",
                 "size": "0.9 MB",
                 "badges": [
                     "Online"
@@ -1328,7 +1328,7 @@
                 "filename": "CarX Street.zip"
             },
             {
-                "href": "https://generator.ryuu.lol/fixes/carxstreet.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/carxstreet.zip",
                 "size": "19.3 MB",
                 "badges": [
                     "Online",
@@ -1345,7 +1345,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3060170/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Chained in the Backrooms.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Chained in the Backrooms.zip",
                 "size": "10.0 MB",
                 "badges": [
                     "Online"
@@ -1360,7 +1360,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2567870/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Chained Together.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Chained Together.zip",
                 "size": "0.4 MB",
                 "badges": [
                     "Online",
@@ -1376,7 +1376,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2818480/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Chaos Express Delivery Simulator.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Chaos Express Delivery Simulator.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Bypass"
@@ -1391,7 +1391,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3438990/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Cheaters Cheetah.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Cheaters Cheetah.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -1406,7 +1406,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1824220/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Chivalry 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Chivalry 2.zip",
                 "size": "8.1 MB",
                 "badges": [
                     "Online"
@@ -1421,7 +1421,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1903340/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Clair Obscur Expedition 33.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Clair Obscur Expedition 33.zip",
                 "size": "482.4 MB",
                 "badges": [
                     "Bypass"
@@ -1436,7 +1436,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1722870/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Clank!.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Clank!.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -1451,7 +1451,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1479730/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Commandos Origins.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Commandos Origins.zip",
                 "size": "26.3 MB",
                 "badges": [
                     "Online"
@@ -1466,7 +1466,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/440900/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Conan Exiles.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Conan Exiles.zip",
                 "size": "10.6 MB",
                 "badges": [
                     "Online"
@@ -1481,7 +1481,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2186700/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Contain.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Contain.zip",
                 "size": "9.1 MB",
                 "badges": [
                     "Online"
@@ -1496,7 +1496,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2719160/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Contractors Showdown.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Contractors Showdown.zip",
                 "size": "41.4 MB",
                 "badges": [
                     "Online"
@@ -1511,7 +1511,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2698780/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/ContractVille.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/ContractVille.zip",
                 "size": "27.7 MB",
                 "badges": [
                     "Online"
@@ -1526,7 +1526,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1656930/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Coridden.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Coridden.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -1541,7 +1541,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/774801/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Crab Champions.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Crab Champions.zip",
                 "size": "9.6 MB",
                 "badges": [
                     "Online"
@@ -1556,7 +1556,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2933080/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Crime Boss Rockay City.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Crime Boss Rockay City.zip",
                 "size": "31.3 MB",
                 "badges": [
                     "Online"
@@ -1571,7 +1571,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Crusader Kings III.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Crusader Kings III.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Bypass"
@@ -1586,7 +1586,7 @@
         "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1892140/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Cryptid Farm.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Cryptid Farm.zip",
                 "size": "11.1 MB",
                 "badges": [
                     "Online"
@@ -1601,7 +1601,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3400000/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Cubic Odyssey.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Cubic Odyssey.zip",
                 "size": "25.6 MB",
                 "badges": [
                     "Online"
@@ -1616,7 +1616,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2328310/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/CUSTOM MECH WARS.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/CUSTOM MECH WARS.zip",
                 "size": "23.1 MB",
                 "badges": [
                     "Online"
@@ -1631,7 +1631,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1116170/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/CyberCorp.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/CyberCorp.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -1646,7 +1646,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2208570/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Dark Hours.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Dark Hours.zip",
                 "size": "11.4 MB",
                 "badges": [
                     "Online"
@@ -1661,7 +1661,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/374320/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/DARKSOULS III.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/DARKSOULS III.zip",
                 "size": "11.5 MB",
                 "badges": [
                     "Bypass"
@@ -1676,7 +1676,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/570940/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/DARK SOULS REMASTERED.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/DARK SOULS REMASTERED.zip",
                 "size": "12.7 MB",
                 "badges": [
                     "Online"
@@ -1691,7 +1691,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/262060/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Darkest Dungeon.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Darkest Dungeon.zip",
                 "size": "7.3 MB",
                 "badges": [
                     "Bypass"
@@ -1706,7 +1706,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/619540/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Darkwater.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Darkwater.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -1721,7 +1721,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2059530/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Dawn of Defiance.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Dawn of Defiance.zip",
                 "size": "25.5 MB",
                 "badges": [
                     "Online",
@@ -1737,7 +1737,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/221100/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/DayZ (DayZavr).zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/DayZ (DayZavr).zip",
                 "size": "37.5 MB",
                 "badges": [
                     "Online"
@@ -1752,7 +1752,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/934700/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Dead Island 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Dead Island 2.zip",
                 "size": "241.5 MB",
                 "badges": [
                     "Online"
@@ -1767,7 +1767,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/383150/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Dead Island Definitive Edition.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Dead Island Definitive Edition.zip",
                 "size": "6.0 MB",
                 "badges": [
                     "Online"
@@ -1782,7 +1782,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/383180/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Dead Island Riptide Definitive Edition.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Dead Island Riptide Definitive Edition.zip",
                 "size": "6.0 MB",
                 "badges": [
                     "Online"
@@ -1797,7 +1797,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/543460/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Dead Rising 4.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Dead Rising 4.zip",
                 "size": "48.0 MB",
                 "badges": [
                     "Bypass"
@@ -1812,7 +1812,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/224060/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Deadpool.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Deadpool.zip",
                 "size": "7.4 MB",
                 "badges": [
                     "Bypass"
@@ -1827,7 +1827,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3228590/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Deadzone Rogue.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Deadzone Rogue.zip",
                 "size": "22.2 MB",
                 "badges": [
                     "Online"
@@ -1842,7 +1842,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2599370/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/DeathWatchers.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/DeathWatchers.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -1857,7 +1857,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/548430/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Deep Rock Galactic.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Deep Rock Galactic.zip",
                 "size": "16.0 MB",
                 "badges": [
                     "Online"
@@ -1872,7 +1872,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1929610/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Demonologist.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Demonologist.zip",
                 "size": "0.3 MB",
                 "badges": [
                     "Online"
@@ -1887,7 +1887,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2868070/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Descending The Woods.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Descending The Woods.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Online"
@@ -1902,7 +1902,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1274570/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/DEVOUR.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/DEVOUR.zip",
                 "size": "20.3 MB",
                 "badges": [
                     "Online"
@@ -1917,7 +1917,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2536520/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Diablo_II_Resurrected_-_Infernal_Edition_v2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Diablo_II_Resurrected_-_Infernal_Edition_v2.zip",
                 "size": "30.0 MB",
                 "badges": [
                     "Bypass",
@@ -1933,7 +1933,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1959140/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Diesel Legacy The Brazen Age.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Diesel Legacy The Brazen Age.zip",
                 "size": "26.1 MB",
                 "badges": [
                     "Online"
@@ -1948,7 +1948,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1062520/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Dinkum.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Dinkum.zip",
                 "size": "4.8 MB",
                 "badges": [
                     "Online"
@@ -1963,7 +1963,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/690790/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Dirt Rally 2.0.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Dirt Rally 2.0.zip",
                 "size": "4.1 MB",
                 "badges": [
                     "Online"
@@ -1978,7 +1978,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/782330/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Doom Eternal.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Doom Eternal.zip",
                 "size": "50.6 MB",
                 "badges": [
                     "Bypass"
@@ -1993,7 +1993,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Dragon Ball FighterZ.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Dragon Ball FighterZ.zip",
                 "size": "93.0 MB",
                 "badges": [
                     "Online"
@@ -2008,7 +2008,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/323470/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Dragon Ball Xeno Verse.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Dragon Ball Xeno Verse.zip",
                 "size": "10.9 MB",
                 "badges": [
                     "Online"
@@ -2023,7 +2023,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1790600/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Dragon Ball Sparking Zero.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Dragon Ball Sparking Zero.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -2038,7 +2038,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1418630/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Dread Hunger.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Dread Hunger.zip",
                 "size": "40.5 MB",
                 "badges": [
                     "Online"
@@ -2053,7 +2053,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1855580/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/DreadHaunt.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/DreadHaunt.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -2068,7 +2068,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2625420/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Drive Beyond Horizons.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Drive Beyond Horizons.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Bypass"
@@ -2083,7 +2083,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/33440/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Driver San Francisco.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Driver San Francisco.zip",
                 "size": "0.1 MB",
                 "badges": [
                     "Bypass"
@@ -2098,7 +2098,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1708850/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Drug Dealer Simulator 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Drug Dealer Simulator 2.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Bypass"
@@ -2113,7 +2113,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2939830/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Dungeon Done.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Dungeon Done.zip",
                 "size": "27.3 MB",
                 "badges": [
                     "Online"
@@ -2128,7 +2128,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/239140/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Dying Light.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Dying Light.zip",
                 "size": "17.9 MB",
                 "badges": [
                     "Online"
@@ -2143,7 +2143,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/534380/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Dying Light 2 Stay Human Reloaded Edition.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Dying Light 2 Stay Human Reloaded Edition.zip",
                 "size": "25.4 MB",
                 "badges": [
                     "Online"
@@ -2158,7 +2158,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2963840/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/FC25 SHOWCASE to FC25 FULL GAME.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/FC25 SHOWCASE to FC25 FULL GAME.zip",
                 "size": "3.7 MB",
                 "badges": [
                     "Bypass"
@@ -2173,7 +2173,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1811260/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/FIFA 23 Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/FIFA 23 Bypass.zip",
                 "size": "238.0 MB",
                 "badges": [
                     "Bypass"
@@ -2188,7 +2188,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2291060/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/EARTH DEFENSE FORCE 6.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/EARTH DEFENSE FORCE 6.zip",
                 "size": "25.4 MB",
                 "badges": [
                     "Online"
@@ -2203,7 +2203,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1039890/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/EARTH DEFENSE FORCE IRON RAIN.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/EARTH DEFENSE FORCE IRON RAIN.zip",
                 "size": "4.2 MB",
                 "badges": [
                     "Online"
@@ -2218,7 +2218,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/382310/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/ECO.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/ECO.zip",
                 "size": "108.4 MB",
                 "badges": [
                     "Online"
@@ -2233,7 +2233,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1259970/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/PES2021.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/PES2021.zip",
                 "size": "230.9 MB",
                 "badges": [
                     "Bypass"
@@ -2248,7 +2248,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Elden Ring.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Elden Ring.zip",
                 "size": "11.8 MB",
                 "badges": [
                     "Bypass"
@@ -2263,7 +2263,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2622380/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/ELDEN RING NIGHTREIGN.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/ELDEN RING NIGHTREIGN.zip",
                 "size": "32.6 MB",
                 "badges": [
                     "Online"
@@ -2278,7 +2278,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3176060/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Emissary Zero.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Emissary Zero.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -2293,7 +2293,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2287330/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Empire of the Ants.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Empire of the Ants.zip",
                 "size": "22.2 MB",
                 "badges": [
                     "Online"
@@ -2308,7 +2308,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1485590/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/ENDLESS Dungeon.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/ENDLESS Dungeon.zip",
                 "size": "22.2 MB",
                 "badges": [
                     "Online"
@@ -2323,7 +2323,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1203620/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Enshrouded.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Enshrouded.zip",
                 "size": "0.4 MB",
                 "badges": [
                     "Online",
@@ -2339,7 +2339,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2602030/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Entropy Survivors.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Entropy Survivors.zip",
                 "size": "25.3 MB",
                 "badges": [
                     "Online"
@@ -2354,7 +2354,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1258460/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Escape First 3.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Escape First 3.zip",
                 "size": "5.5 MB",
                 "badges": [
                     "Online"
@@ -2369,7 +2369,7 @@
         "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1316700/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Escape from Kyoto House.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Escape from Kyoto House.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -2384,7 +2384,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/227300/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Euro Truck Simulator 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Euro Truck Simulator 2.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Bypass"
@@ -2399,7 +2399,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/236850/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Europa Universalis IV.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Europa Universalis IV.zip",
                 "size": "10.2 MB",
                 "badges": [
                     "Bypass"
@@ -2414,7 +2414,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1722840/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Everdell.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Everdell.zip",
                 "size": "10.2 MB",
                 "badges": [
                     "Online"
@@ -2429,7 +2429,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1403650/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Everdream Valley.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Everdream Valley.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Bypass"
@@ -2444,7 +2444,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/515220/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/F1 2017.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/F1 2017.zip",
                 "size": "2.7 MB",
                 "badges": [
                     "Bypass"
@@ -2459,7 +2459,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/377160/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Fallout 4.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Fallout 4.zip",
                 "size": "71.0 MB",
                 "badges": [
                     "Bypass"
@@ -2474,7 +2474,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2993780/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/ANTASY LIFE i The Girl Who Steals Time.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/ANTASY LIFE i The Girl Who Steals Time.zip",
                 "size": "26.3 MB",
                 "badges": [
                     "Bypass"
@@ -2489,7 +2489,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/220240/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Far Cry 3 Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Far Cry 3 Bypass.zip",
                 "size": "29.1 MB",
                 "badges": [
                     "Bypass"
@@ -2504,7 +2504,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/298110/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Far Cry 4 Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Far Cry 4 Bypass.zip",
                 "size": "43.8 MB",
                 "badges": [
                     "Bypass",
@@ -2520,7 +2520,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2369390/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Far Cry 6.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Far Cry 6.zip",
                 "size": "262.0 MB",
                 "badges": [
                     "Bypass"
@@ -2535,7 +2535,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/939960/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Far Cry New Dawn.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Far Cry New Dawn.zip",
                 "size": "193.9 MB",
                 "badges": [
                     "Bypass"
@@ -2550,7 +2550,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/371660/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Far Cry Primal.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Far Cry Primal.zip",
                 "size": "21.1 KB",
                 "badges": [
                     "Bypass"
@@ -2565,7 +2565,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/673950/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Farm Together.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Farm Together.zip",
                 "size": "6.0 MB",
                 "badges": [
                     "Online"
@@ -2580,7 +2580,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2418520/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Farm Together 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Farm Together 2.zip",
                 "size": "27.2 MB",
                 "badges": [
                     "Online"
@@ -2595,7 +2595,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2300320/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Farming Simulator 25.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Farming Simulator 25.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -2610,7 +2610,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2916430/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Fast Food Simulator.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Fast Food Simulator.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Online"
@@ -2625,7 +2625,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2492040/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/FATAL FURY City of the Wolves.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/FATAL FURY City of the Wolves.zip",
                 "size": "27.2 MB",
                 "badges": [
                     "Online"
@@ -2640,7 +2640,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2300230/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Feather Party.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Feather Party.zip",
                 "size": "10.6 MB",
                 "badges": [
                     "Online"
@@ -2655,7 +2655,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/39140/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/FINAL FANTASY VII.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/FINAL FANTASY VII.zip",
                 "size": "4.6 MB",
                 "badges": [
                     "Bypass"
@@ -2670,7 +2670,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2374030/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Five Nights No Escape.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Five Nights No Escape.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -2685,7 +2685,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/696220/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Folklore Hunter.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Folklore Hunter.zip",
                 "size": "4.2 MB",
                 "badges": [
                     "Online"
@@ -2700,7 +2700,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1641960/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Forever Skies.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Forever Skies.zip",
                 "size": "26.6 MB",
                 "badges": [
                     "Online"
@@ -2715,7 +2715,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1562420/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/FOREWARNED.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/FOREWARNED.zip",
                 "size": "4.8 MB",
                 "badges": [
                     "Online"
@@ -2730,7 +2730,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2810780/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Forsaken Frontiers.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Forsaken Frontiers.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -2745,7 +2745,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1551360/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Forza Horizon 5.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Forza Horizon 5.zip",
                 "size": "10.6 MB",
                 "badges": [
                     "Online"
@@ -2760,7 +2760,7 @@
         "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/27abb1584a118d50d0e3950fd48d557c51981db7/header.jpg?t=1778262106",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/ForzaHorizon6.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/ForzaHorizon6.zip",
                 "size": "11.7 MB",
                 "badges": [
                     "Online",
@@ -2778,7 +2778,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2440510/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Forza Motorsport.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Forza Motorsport.zip",
                 "size": "9.2 MB",
                 "badges": [
                     "Online",
@@ -2794,7 +2794,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2707940/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/FPV Kamikaze Drone.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/FPV Kamikaze Drone.zip",
                 "size": "26.3 MB",
                 "badges": [
                     "Bypass"
@@ -2809,7 +2809,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3004100/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/FREEDOM WARS Remastered.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/FREEDOM WARS Remastered.zip",
                 "size": "25.3 MB",
                 "badges": [
                     "Online"
@@ -2824,7 +2824,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/438740/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Friday the 13th The Game.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Friday the 13th The Game.zip",
                 "size": "29.5 MB",
                 "badges": [
                     "Online"
@@ -2839,7 +2839,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3441460/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Fuel Harvest Together.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Fuel Harvest Together.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -2854,7 +2854,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1843310/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Funko Fusion.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Funko Fusion.zip",
                 "size": "10.8 MB",
                 "badges": [
                     "Online"
@@ -2869,7 +2869,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2749770/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Galaxy Burger.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Galaxy Burger.zip",
                 "size": "7.3 MB",
                 "badges": [
                     "Online"
@@ -2884,7 +2884,7 @@
         "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1777658920",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/GambleWithYourFriends_Fix_Repair_Steam_Generic.rar?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/GambleWithYourFriends_Fix_Repair_Steam_Generic.rar",
                 "size": "11.1 MB",
                 "badges": [
                     "Online",
@@ -2900,7 +2900,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/285900/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Gang Beasts.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Gang Beasts.zip",
                 "size": "10.6 MB",
                 "badges": [
                     "Online"
@@ -2915,7 +2915,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/4000/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Garrys_Mod_freetp.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Garrys_Mod_freetp.zip",
                 "size": "867.4 KB",
                 "badges": [
                     "Online"
@@ -2930,7 +2930,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3044440/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Gas Station Manager.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Gas Station Manager.zip",
                 "size": "21.6 MB",
                 "badges": [
                     "Bypass"
@@ -2945,7 +2945,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1618540/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Ghost Exorcism INC.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Ghost Exorcism INC.zip",
                 "size": "20.4 MB",
                 "badges": [
                     "Online"
@@ -2960,7 +2960,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2215430/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Ghost of Tsushima DIRECTORS CUT.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Ghost of Tsushima DIRECTORS CUT.zip",
                 "size": "22.2 MB",
                 "badges": [
                     "Bypass"
@@ -2975,7 +2975,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2689120/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Gladio Mori.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Gladio Mori.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -2990,7 +2990,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1183530/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Go Fight Fantastic.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Go Fight Fantastic.zip",
                 "size": "10.2 MB",
                 "badges": [
                     "Online"
@@ -3005,7 +3005,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/899440/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/GOD EATER 3.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/GOD EATER 3.zip",
                 "size": "4.2 MB",
                 "badges": [
                     "Online"
@@ -3020,7 +3020,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2322010/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/God of War Ragnarok.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/God of War Ragnarok.zip",
                 "size": "12.8 MB",
                 "badges": [
                     "Bypass"
@@ -3035,7 +3035,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/571740/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Golf It!.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Golf It!.zip",
                 "size": "4.2 MB",
                 "badges": [
                     "Online"
@@ -3050,7 +3050,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2627570/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Goofy Gorillas.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Goofy Gorillas.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -3065,7 +3065,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/881020/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Granblue Fantasy Relink.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Granblue Fantasy Relink.zip",
                 "size": "10.2 MB",
                 "badges": [
                     "Online"
@@ -3080,7 +3080,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/12100/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/GTA III.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/GTA III.zip",
                 "size": "17.6 MB",
                 "badges": [
                     "Bypass"
@@ -3111,7 +3111,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/271590/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/GTA V Legacy.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/GTA V Legacy.zip",
                 "size": "2.2 MB",
                 "badges": [
                     "Bypass"
@@ -3126,7 +3126,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1547000/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/GTA SA DE.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/GTA SA DE.zip",
                 "size": "17.6 MB",
                 "badges": [
                     "Bypass"
@@ -3141,7 +3141,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1546990/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/GTA VICE DE.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/GTA VICE DE.zip",
                 "size": "17.6 MB",
                 "badges": [
                     "Bypass"
@@ -3156,7 +3156,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3070520/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Granny Escape Together.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Granny Escape Together.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Online"
@@ -3171,7 +3171,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2961880/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Grocery Store Simulator.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Grocery Store Simulator.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Bypass"
@@ -3186,7 +3186,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/16900/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Ground Branch.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Ground Branch.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Online"
@@ -3201,7 +3201,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/962130/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Grounded.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Grounded.zip",
                 "size": "23.9 MB",
                 "badges": [
                     "Online"
@@ -3216,7 +3216,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/493520/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/GTFO.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/GTFO.zip",
                 "size": "21.6 MB",
                 "badges": [
                     "Online"
@@ -3231,7 +3231,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3400930/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Guilty as Sock!.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Guilty as Sock!.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -3246,7 +3246,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1672500/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Gundam Breaker 4.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Gundam Breaker 4.zip",
                 "size": "10.6 MB",
                 "badges": [
                     "Online",
@@ -3262,7 +3262,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/70/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Half-Life.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Half-Life.zip",
                 "size": "7.9 MB",
                 "badges": [
                     "Bypass"
@@ -3277,7 +3277,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1691320/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Hellbreach Vegas.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Hellbreach Vegas.zip",
                 "size": "22.6 MB",
                 "badges": [
                     "Online"
@@ -3292,7 +3292,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/553850/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/HELLDIVERS.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/HELLDIVERS.zip",
                 "size": "0.9 MB",
                 "badges": [
                     "Online"
@@ -3307,7 +3307,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/619820/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Heroes of Hammerwatch 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Heroes of Hammerwatch 2.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Online"
@@ -3322,7 +3322,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1729140/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Hired2Die.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Hired2Die.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -3337,7 +3337,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1659040/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/HITMAN World of Assassination.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/HITMAN World of Assassination.zip",
                 "size": "39.5 MB",
                 "badges": [
                     "Bypass"
@@ -3352,7 +3352,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/203140/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/HITMAN Absolution.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/HITMAN Absolution.zip",
                 "size": "12.1 MB",
                 "badges": [
                     "Bypass"
@@ -3367,7 +3367,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/632300/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Hobo Tough Life.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Hobo Tough Life.zip",
                 "size": "27.2 MB",
                 "badges": [
                     "Online"
@@ -3382,7 +3382,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/990080/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Hogwarts Legacy - Specific Version.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Hogwarts Legacy - Specific Version.zip",
                 "size": "223.1 MB",
                 "badges": [
                     "Bypass"
@@ -3397,7 +3397,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2774380/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Hospital 666.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Hospital 666.zip",
                 "size": "9.5 MB",
                 "badges": [
                     "Online"
@@ -3412,7 +3412,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1190970/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/House Flipper 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/House Flipper 2.zip",
                 "size": "22.7 MB",
                 "badges": [
                     "Online",
@@ -3428,7 +3428,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/477160/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Human Fall Flat.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Human Fall Flat.zip",
                 "size": "4.1 MB",
                 "badges": [
                     "Online"
@@ -3443,7 +3443,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1124300/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/HUMANKIND.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/HUMANKIND.zip",
                 "size": "9.7 MB",
                 "badges": [
                     "Online"
@@ -3458,7 +3458,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1534840/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Hyper Light Breaker.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Hyper Light Breaker.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Online"
@@ -3473,7 +3473,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/523660/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/HYPERCHARGE Unboxed.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/HYPERCHARGE Unboxed.zip",
                 "size": "0.4 MB",
                 "badges": [
                     "Online"
@@ -3488,7 +3488,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3447690/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/iDigging.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/iDigging.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Bypass"
@@ -3503,7 +3503,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2271930/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/IfSunSets.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/IfSunSets.zip",
                 "size": "25.3 MB",
                 "badges": [
                     "Online"
@@ -3518,7 +3518,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1858650/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/In Sink A Co-op Escape Adventure.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/In Sink A Co-op Escape Adventure.zip",
                 "size": "11.4 MB",
                 "badges": [
                     "Online"
@@ -3533,7 +3533,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2799860/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/INAZUMAELEVENVictoryRoad_Fix_Repair_Steam_Generic.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/INAZUMAELEVENVictoryRoad_Fix_Repair_Steam_Generic.zip",
                 "size": "25.4 MB",
                 "badges": [
                     "Online"
@@ -3548,7 +3548,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2116120/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Incursion Red River.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Incursion Red River.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -3563,7 +3563,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/It Takes Two.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/It Takes Two.zip",
                 "size": "74.4 MB",
                 "badges": [
                     "Online"
@@ -3578,7 +3578,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2058180/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Judgment Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Judgment Bypass.zip",
                 "size": "229.0 MB",
                 "badges": [
                     "Bypass"
@@ -3593,7 +3593,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1877020/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Jujutsu Kaisen Cursed Clash.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Jujutsu Kaisen Cursed Clash.zip",
                 "size": "10.0 MB",
                 "badges": [
                     "Online"
@@ -3608,7 +3608,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/816020/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Jump Force Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Jump Force Bypass.zip",
                 "size": "54.8 MB",
                 "badges": [
                     "Bypass"
@@ -3623,7 +3623,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2331130/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Just Another Night Shift.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Just Another Night Shift.zip",
                 "size": "10.6 MB",
                 "badges": [
                     "Bypass"
@@ -3638,7 +3638,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/517630/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Just Cause 4 Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Just Cause 4 Bypass.zip",
                 "size": "112.9 MB",
                 "badges": [
                     "Bypass"
@@ -3653,7 +3653,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/225540/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Just Cause 3 Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Just Cause 3 Bypass.zip",
                 "size": "23.6 KB",
                 "badges": [
                     "Bypass"
@@ -3668,7 +3668,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2354330/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Keep Keepers.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Keep Keepers.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -3683,7 +3683,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2357000/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Kill It With Fire 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Kill It With Fire 2.zip",
                 "size": "26.2 MB",
                 "badges": [
                     "Online"
@@ -3698,7 +3698,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Kingdoms Reborn.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Kingdoms Reborn.zip",
                 "size": "9.7 MB",
                 "badges": [
                     "Online"
@@ -3713,7 +3713,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2107090/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/KitHack Model Club.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/KitHack Model Club.zip",
                 "size": "10.6 MB",
                 "badges": [
                     "Online"
@@ -3728,7 +3728,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/736820/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Knights of Honor II Sovereign.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Knights of Honor II Sovereign.zip",
                 "size": "14.4 MB",
                 "badges": [
                     "Online"
@@ -3743,7 +3743,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1302240/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Labyrinthine.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Labyrinthine.zip",
                 "size": "10.1 MB",
                 "badges": [
                     "Online"
@@ -3758,7 +3758,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/511440/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Last Year the Nightmare.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Last Year the Nightmare.zip",
                 "size": "4.2 MB",
                 "badges": [
                     "Online"
@@ -3773,7 +3773,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/550/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Left 4 Dead 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Left 4 Dead 2.zip",
                 "size": "4.2 MB",
                 "badges": [
                     "Online"
@@ -3788,7 +3788,7 @@
         "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/a07a9a6c0c9c1225f5b260b4f29fe40e6f099f6b/header.jpg?t=1779469737",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/LEGO.Batman.Legacy.of.the.Dark.Knight-voices38.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/LEGO.Batman.Legacy.of.the.Dark.Knight-voices38.zip",
                 "size": "206.2 MB",
                 "badges": [
                     "Bypass"
@@ -3803,7 +3803,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1820380/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Let's Cook.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Let's Cook.zip",
                 "size": "4.8 MB",
                 "badges": [
                     "Online"
@@ -3818,7 +3818,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1966720/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Lethal Company.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Lethal Company.zip",
                 "size": "9.9 MB",
                 "badges": [
                     "Online"
@@ -3833,7 +3833,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3097560/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Liar's Bar.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Liar's Bar.zip",
                 "size": "11.4 MB",
                 "badges": [
                     "Online"
@@ -3848,7 +3848,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/410340/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Liftoff.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Liftoff.zip",
                 "size": "0.8 MB",
                 "badges": [
                     "Online"
@@ -3863,7 +3863,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3107800/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/LIZARDS MUST DIE 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/LIZARDS MUST DIE 2.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -3878,7 +3878,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2780980/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/LOCKDOWN Protocol.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/LOCKDOWN Protocol.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Online"
@@ -3893,7 +3893,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1501750/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Lords of the Fallen.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Lords of the Fallen.zip",
                 "size": "38.9 MB",
                 "badges": [
                     "Online"
@@ -3908,7 +3908,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2903710/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Lost Lullabies The Orphanage Chronicles.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Lost Lullabies The Orphanage Chronicles.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -3923,7 +3923,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1931180/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Lost Skies.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Lost Skies.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -3938,7 +3938,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2408820/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Luma Island.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Luma Island.zip",
                 "size": "11.4 MB",
                 "badges": [
                     "Online"
@@ -3953,7 +3953,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/234140/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/MAD MAX Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/MAD MAX Bypass.zip",
                 "size": "23.6 KB",
                 "badges": [
                     "Bypass",
@@ -3969,7 +3969,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/50130/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Mafia_II_Classic_Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Mafia_II_Classic_Bypass.zip",
                 "size": "8.3 MB",
                 "badges": [
                     "Bypass"
@@ -3984,7 +3984,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1941540/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Mafia.The.Old.Country-voices38.rar?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Mafia.The.Old.Country-voices38.rar",
                 "size": "262.0 MB",
                 "badges": [
                     "Bypass"
@@ -3999,7 +3999,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3716600/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/MageArena_Fix_Repair_Steam_Generic.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/MageArena_Fix_Repair_Steam_Generic.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Online"
@@ -4014,7 +4014,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/493840/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Marvel vs Capcom Infinite.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Marvel vs Capcom Infinite.zip",
                 "size": "24.1 MB",
                 "badges": [
                     "Online"
@@ -4029,7 +4029,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/433300/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Marvel Ultimate Alliance.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Marvel Ultimate Alliance.zip",
                 "size": "14.7 MB",
                 "badges": [
                     "Online"
@@ -4044,7 +4044,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1088850/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Marvel's Guardians of the Galaxy Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Marvel's Guardians of the Galaxy Bypass.zip",
                 "size": "255.3 MB",
                 "badges": [
                     "Bypass"
@@ -4059,7 +4059,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1328670/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Mass Effect Legendary Edition.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Mass Effect Legendary Edition.zip",
                 "size": "0.6 MB",
                 "badges": [
                     "Bypass"
@@ -4074,7 +4074,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1238000/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Mass Effect Andromeda.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Mass Effect Andromeda.zip",
                 "size": "24.7 MB",
                 "badges": [
                     "Bypass"
@@ -4089,7 +4089,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/204100/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Max Payne 3 Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Max Payne 3 Bypass.zip",
                 "size": "37.5 MB",
                 "badges": [
                     "Bypass"
@@ -4104,7 +4104,7 @@
         "header_image": "https://generator.ryuu.lol/files/images/4704690.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/MecchaChameleon_Fix_Repair_Steam_Generic.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/MecchaChameleon_Fix_Repair_Steam_Generic.zip",
                 "size": "24.5 MB",
                 "badges": [
                     "Online"
@@ -4119,7 +4119,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2061620/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Mechanic Heroes.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Mechanic Heroes.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -4134,7 +4134,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1129580/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Medieval Dynasty.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Medieval Dynasty.zip",
                 "size": "22.9 MB",
                 "badges": [
                     "Online"
@@ -4149,7 +4149,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2450450/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/MEGATON MUSASHI W WIRED.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/MEGATON MUSASHI W WIRED.zip",
                 "size": "25.5 MB",
                 "badges": [
                     "Online"
@@ -4164,7 +4164,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1268590/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Millennia.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Millennia.zip",
                 "size": "10.2 MB",
                 "badges": [
                     "Bypass"
@@ -4179,7 +4179,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3265250/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Mindseye.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Mindseye.zip",
                 "size": "3.0 MB",
                 "badges": [
                     "Bypass"
@@ -4194,7 +4194,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1672970/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/MinecraftDungeons_Fix_Repair_GDK.rar?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/MinecraftDungeons_Fix_Repair_GDK.rar",
                 "size": "18.2 MB",
                 "badges": [
                     "Online"
@@ -4209,7 +4209,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1233570/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Mirror's EdgeT Catalyst.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Mirror's EdgeT Catalyst.zip",
                 "size": "72.9 MB",
                 "badges": [
                     "Bypass"
@@ -4224,7 +4224,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1063030/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/MONACO 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/MONACO 2.zip",
                 "size": "23.7 MB",
                 "badges": [
                     "Online"
@@ -4239,7 +4239,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1446780/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/MONSTER HUNTER RISE.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/MONSTER HUNTER RISE.zip",
                 "size": "88.9 KB",
                 "badges": [
                     "Online"
@@ -4254,7 +4254,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Mortal Kombat 11.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Mortal Kombat 11.zip",
                 "size": "8.6 MB",
                 "badges": [
                     "Online"
@@ -4269,7 +4269,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307780/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Mortal Kombat X.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Mortal Kombat X.zip",
                 "size": "18.3 MB",
                 "badges": [
                     "Online"
@@ -4284,7 +4284,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/261550/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Mount & Blade II Bannerlord.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Mount & Blade II Bannerlord.zip",
                 "size": "13.9 MB",
                 "badges": [
                     "Bypass"
@@ -4299,7 +4299,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/996770/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Moving Out.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Moving Out.zip",
                 "size": "4.2 MB",
                 "badges": [
                     "Online"
@@ -4314,7 +4314,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2263920/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Multiplayer Platform Golf.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Multiplayer Platform Golf.zip",
                 "size": "10.2 MB",
                 "badges": [
                     "Online"
@@ -4329,7 +4329,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2963880/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Murky Divers.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Murky Divers.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -4344,7 +4344,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/516750/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/My Summer Car.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/My Summer Car.zip",
                 "size": "12.5 MB",
                 "badges": [
                     "Bypass"
@@ -4359,7 +4359,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1371580/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Myth of Empires.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Myth of Empires.zip",
                 "size": "26.6 MB",
                 "badges": [
                     "Online"
@@ -4374,7 +4374,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/363860/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/MythForce.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/MythForce.zip",
                 "size": "24.7 MB",
                 "badges": [
                     "Online"
@@ -4389,7 +4389,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/349040/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Naruto Shippuden Ultimate Ninja STORM 4.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Naruto Shippuden Ultimate Ninja STORM 4.zip",
                 "size": "0.5 MB",
                 "badges": [
                     "Online"
@@ -4404,7 +4404,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/272510/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/NARUTO SHIPPUDEN Ultimate Ninja STORM Revolution.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/NARUTO SHIPPUDEN Ultimate Ninja STORM Revolution.zip",
                 "size": "0.4 MB",
                 "badges": [
                     "Online"
@@ -4419,7 +4419,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1020790/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Naruto x Boruto Ultimate Ninja Storm Connections.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Naruto x Boruto Ultimate Ninja Storm Connections.zip",
                 "size": "20.7 MB",
                 "badges": [
                     "Online"
@@ -4434,7 +4434,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1127980/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/NASCAR Heat 4.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/NASCAR Heat 4.zip",
                 "size": "5.9 MB",
                 "badges": [
                     "Bypass"
@@ -4449,7 +4449,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1265860/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/NASCAR Heat 5.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/NASCAR Heat 5.zip",
                 "size": "5.2 MB",
                 "badges": [
                     "Bypass"
@@ -4464,7 +4464,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1262560/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Need for Speed Most Wanted Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Need for Speed Most Wanted Bypass.zip",
                 "size": "5.4 MB",
                 "badges": [
                     "Bypass"
@@ -4479,7 +4479,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1262580/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Need For Speed PayBack.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Need For Speed PayBack.zip",
                 "size": "72.9 MB",
                 "badges": [
                     "Bypass"
@@ -4494,7 +4494,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1262600/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Need For Speed Rival Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Need For Speed Rival Bypass.zip",
                 "size": "21.4 MB",
                 "badges": [
                     "Bypass"
@@ -4509,7 +4509,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1732430/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Neighbors Suburban Warfare.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Neighbors Suburban Warfare.zip",
                 "size": "38.8 MB",
                 "badges": [
                     "Online"
@@ -4524,7 +4524,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1983990/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Stellaris Nexus.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Stellaris Nexus.zip",
                 "size": "19.2 MB",
                 "badges": [
                     "Online"
@@ -4539,7 +4539,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1377380/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Night of the Dead.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Night of the Dead.zip",
                 "size": "63.8 MB",
                 "badges": [
                     "Online"
@@ -4554,7 +4554,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3376250/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Nine-Ball Roulette.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Nine-Ball Roulette.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Online"
@@ -4569,7 +4569,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1325200/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Nioh 2 The Complete Edition.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Nioh 2 The Complete Edition.zip",
                 "size": "4.8 MB",
                 "badges": [
                     "Bypass"
@@ -4584,7 +4584,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/275850/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/No Man's Sky Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/No Man's Sky Bypass.zip",
                 "size": "58.1 MB",
                 "badges": [
                     "Bypass"
@@ -4599,7 +4599,7 @@
         "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2732610/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Nobody Sleeps Tonight.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Nobody Sleeps Tonight.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -4614,7 +4614,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2909110/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Nuclear Nightmare.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Nuclear Nightmare.zip",
                 "size": "11.4 MB",
                 "badges": [
                     "Online"
@@ -4629,7 +4629,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2168680/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Nuclear Option.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Nuclear Option.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -4644,7 +4644,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1745680/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Odd Remedy.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Odd Remedy.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -4659,7 +4659,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2262080/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Omega Crafter.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Omega Crafter.zip",
                 "size": "10.2 MB",
                 "badges": [
                     "Online"
@@ -4674,7 +4674,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/425220/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/One Piece Burning Blood.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/One Piece Burning Blood.zip",
                 "size": "7.1 MB",
                 "badges": [
                     "Online"
@@ -4689,7 +4689,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2500750/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Only Climb Better Together.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Only Climb Better Together.zip",
                 "size": "9.9 MB",
                 "badges": [
                     "Online"
@@ -4704,7 +4704,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2928650/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Only Up SKIBIDI TOGETHER.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Only Up SKIBIDI TOGETHER.zip",
                 "size": "10.6 MB",
                 "badges": [
                     "Online"
@@ -4719,7 +4719,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2522520/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Only_Up_With_Friends_FREETP.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Only_Up_With_Friends_FREETP.zip",
                 "size": "1.2 MB",
                 "badges": [
                     "Online"
@@ -4734,7 +4734,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1913370/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/OPERATOR.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/OPERATOR.zip",
                 "size": "9.5 MB",
                 "badges": [
                     "Online"
@@ -4749,7 +4749,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2273980/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Orcs Must Die! Deathtrap.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Orcs Must Die! Deathtrap.zip",
                 "size": "25.3 MB",
                 "badges": [
                     "Online"
@@ -4764,7 +4764,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/402710/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Osiris New Dawn.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Osiris New Dawn.zip",
                 "size": "4.2 MB",
                 "badges": [
                     "Online"
@@ -4779,7 +4779,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2009350/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Out of Ore.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Out of Ore.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -4794,7 +4794,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1107320/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/OUTBRK.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/OUTBRK.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -4809,7 +4809,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/753640/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Outer Wilds.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Outer Wilds.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Bypass"
@@ -4824,7 +4824,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/680420/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/OUTRIDERS.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/OUTRIDERS.zip",
                 "size": "7.5 MB",
                 "badges": [
                     "Online"
@@ -4839,7 +4839,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1243830/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Overcooked! All You Can Eat.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Overcooked! All You Can Eat.zip",
                 "size": "63.2 MB",
                 "badges": [
                     "Online"
@@ -4854,7 +4854,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1830630/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Overpass 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Overpass 2.zip",
                 "size": "23.3 MB",
                 "badges": [
                     "Online"
@@ -4869,7 +4869,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1133500/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Overthrown.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Overthrown.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -4884,7 +4884,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/967050/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Pacify.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Pacify.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -4899,7 +4899,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1623730/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Palworld.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Palworld.zip",
                 "size": "16.4 MB",
                 "badges": [
                     "Online"
@@ -4914,7 +4914,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3036880/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Panic In The Woods.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Panic In The Woods.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Online"
@@ -4929,7 +4929,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2695940/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/PANICORE.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/PANICORE.zip",
                 "size": "11.4 MB",
                 "badges": [
                     "Online"
@@ -4944,7 +4944,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1592290/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/PARANOIA PLACE.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/PARANOIA PLACE.zip",
                 "size": "10.6 MB",
                 "badges": [
                     "Online"
@@ -4959,7 +4959,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1726130/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Pathless Woods.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Pathless Woods.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -4974,7 +4974,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/218620/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/PAYDAY 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/PAYDAY 2.zip",
                 "size": "12.8 MB",
                 "badges": [
                     "Online"
@@ -4989,7 +4989,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1272080/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/PAYDAY 3.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/PAYDAY 3.zip",
                 "size": "82.0 MB",
                 "badges": [
                     "Online"
@@ -5004,7 +5004,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3527290/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Peak.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Peak.zip",
                 "size": "11.1 MB",
                 "badges": [
                     "Online"
@@ -5019,7 +5019,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1521580/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Perfect Heist 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Perfect Heist 2.zip",
                 "size": "4.2 MB",
                 "badges": [
                     "Online"
@@ -5034,7 +5034,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1687950/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Persona.5.Royal.CRACKONLY-MKDEV.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Persona.5.Royal.CRACKONLY-MKDEV.zip",
                 "size": "262 MB",
                 "badges": [
                     "Bypass"
@@ -5049,7 +5049,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/739630/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Phasmophobia.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Phasmophobia.zip",
                 "size": "28.2 MB",
                 "badges": [
                     "Online"
@@ -5064,7 +5064,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1509960/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/PICO PARK.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/PICO PARK.zip",
                 "size": "4.3 MB",
                 "badges": [
                     "Online"
@@ -5079,7 +5079,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2644470/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/PICO PARK 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/PICO PARK 2.zip",
                 "size": "21.0 MB",
                 "badges": [
                     "Online"
@@ -5094,7 +5094,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/246620/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Plague Inc Evolved.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Plague Inc Evolved.zip",
                 "size": "4.3 MB",
                 "badges": [
                     "Online"
@@ -5109,7 +5109,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2800450/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Planetaries.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Planetaries.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -5124,7 +5124,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3654560/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Plants_vs_Zombies.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Plants_vs_Zombies.zip",
                 "size": "42.5 MB",
                 "badges": [
                     "Bypass"
@@ -5139,7 +5139,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/997010/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Police Simulator Patrol Officers.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Police Simulator Patrol Officers.zip",
                 "size": "23.7 MB",
                 "badges": [
                     "Online"
@@ -5154,7 +5154,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/620/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Portal 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Portal 2.zip",
                 "size": "4.8 MB",
                 "badges": [
                     "Online"
@@ -5169,7 +5169,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1290000/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/PowerWash Simulator.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/PowerWash Simulator.zip",
                 "size": "10.1 MB",
                 "badges": [
                     "Bypass"
@@ -5184,7 +5184,7 @@
         "header_image": "https://generator.ryuu.lol/files/images/3357650.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Pragmata-voices38.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Pragmata-voices38.zip",
                 "size": "5.9 MB",
                 "badges": [
                     "Bypass"
@@ -5207,7 +5207,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/33320/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Prince of Persia The Forgotten Sands Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Prince of Persia The Forgotten Sands Bypass.zip",
                 "size": "11.0 MB",
                 "badges": [
                     "Bypass"
@@ -5222,7 +5222,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2725200/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Prisoners.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Prisoners.zip",
                 "size": "22.2 MB",
                 "badges": [
                     "Online"
@@ -5237,7 +5237,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2115390/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Project Unknown.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Project Unknown.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -5252,7 +5252,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/108600/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Project Zomboid.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Project Zomboid.zip",
                 "size": "9.1 MB",
                 "badges": [
                     "Online"
@@ -5267,7 +5267,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1682050/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/PropHunter.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/PropHunter.zip",
                 "size": "9.1 MB",
                 "badges": [
                     "Online"
@@ -5282,7 +5282,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/115320/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/ProtoType 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/ProtoType 2.zip",
                 "size": "35.0 MB",
                 "badges": [
                     "Bypass"
@@ -5297,7 +5297,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3030360/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Puppet Team.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Puppet Team.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -5312,7 +5312,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3298460/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Pushing it! Together Sisyphus.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Pushing it! Together Sisyphus.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -5327,7 +5327,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3241660/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/R.E.P.O.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/R.E.P.O.zip",
                 "size": "11.1 MB",
                 "badges": [
                     "Online"
@@ -5335,7 +5335,7 @@
                 "filename": "R.E.P.O.zip"
             },
             {
-                "href": "https://generator.ryuu.lol/fixes/R.E.P.O_Update.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/R.E.P.O_Update.zip",
                 "size": "11.1 MB",
                 "badges": [
                     "Online"
@@ -5350,7 +5350,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/648800/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Raft.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Raft.zip",
                 "size": "4.8 MB",
                 "badges": [
                     "Online",
@@ -5366,7 +5366,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1677970/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Railroad Corporation 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Railroad Corporation 2.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -5381,7 +5381,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1644320/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/RAILWAY EMPIRE 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/RAILWAY EMPIRE 2.zip",
                 "size": "23.0 MB",
                 "badges": [
                     "Online"
@@ -5396,7 +5396,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/242550/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Rayman_Legends_Baypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Rayman_Legends_Baypass.zip",
                 "size": "5.3 MB",
                 "badges": [
                     "Bypass"
@@ -5411,7 +5411,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1144200/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Ready Or Not.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Ready Or Not.zip",
                 "size": "21.1 MB",
                 "badges": [
                     "Online"
@@ -5426,7 +5426,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2668510/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Red Dead Redemption 1 Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Red Dead Redemption 1 Bypass.zip",
                 "size": "19.6 MB",
                 "badges": [
                     "Bypass",
@@ -5442,7 +5442,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Red Dead Redemption 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Red Dead Redemption 2.zip",
                 "size": "80.9 MB",
                 "badges": [
                     "Bypass"
@@ -5457,7 +5457,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1282100/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Remnant II.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Remnant II.zip",
                 "size": "25.4 MB",
                 "badges": [
                     "Online"
@@ -5472,7 +5472,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2533020/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Renaissance Kingdom Wars.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Renaissance Kingdom Wars.zip",
                 "size": "7.9 MB",
                 "badges": [
                     "Bypass"
@@ -5487,7 +5487,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2050650/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Resident Evil 4 Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Resident Evil 4 Bypass.zip",
                 "size": "575.1 MB",
                 "badges": [
                     "Bypass"
@@ -5502,7 +5502,7 @@
         "header_image": "https://generator.ryuu.lol/files/images/3764200.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Resident.Evil.Requiem.HYPERVISOR.V3-KIRIGIRI-PATCH-FIX.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Resident.Evil.Requiem.HYPERVISOR.V3-KIRIGIRI-PATCH-FIX.zip",
                 "size": "1656.5 MB",
                 "badges": [
                     "Bypass",
@@ -5511,7 +5511,7 @@
                 "filename": "Resident.Evil.Requiem.HYPERVISOR.V3-KIRIGIRI-PATCH-FIX.zip"
             },
             {
-                "href": "https://generator.ryuu.lol/fixes/Resident.Evil.Requiem.Crack.Only-voices38.rar?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Resident.Evil.Requiem.Crack.Only-voices38.rar",
                 "size": "5.9 MB",
                 "badges": [
                     "Bypass",
@@ -5529,7 +5529,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/222480/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/RESIDENT_EVIL_REVELATIONS_SAVE_FIX_STEAM.rar?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/RESIDENT_EVIL_REVELATIONS_SAVE_FIX_STEAM.rar",
                 "size": "539.1 KB",
                 "badges": [
                     "Bypass"
@@ -5544,7 +5544,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1196590/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Resident.Evil.Village.RUNE.Crack.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Resident.Evil.Village.RUNE.Crack.zip",
                 "size": "135.5 MB",
                 "badges": [
                     "Bypass"
@@ -5559,7 +5559,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2787320/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Revenge of the Savage Planet.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Revenge of the Savage Planet.zip",
                 "size": "26.3 MB",
                 "badges": [
                     "Online"
@@ -5574,7 +5574,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2290180/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Riders Republic Ubisoft Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Riders Republic Ubisoft Bypass.zip",
                 "size": "0.3 MB",
                 "badges": [
                     "Bypass",
@@ -5590,7 +5590,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1340990/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Rise Of The Ronin.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Rise Of The Ronin.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -5605,7 +5605,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2104890/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Roadcraft.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Roadcraft.zip",
                 "size": "44.9 MB",
                 "badges": [
                     "Bypass"
@@ -5620,7 +5620,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3643170/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/RoadsideResearch_Fix_Repair_Steam_Generic.rar?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/RoadsideResearch_Fix_Repair_Steam_Generic.rar",
                 "size": "20.7 MB",
                 "badges": [
                     "Online"
@@ -5635,7 +5635,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2703850/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Rooftops & Alleys The Parkour Game.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Rooftops & Alleys The Parkour Game.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -5650,7 +5650,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2015270/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Rotwood.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Rotwood.zip",
                 "size": "18.6 MB",
                 "badges": [
                     "Online"
@@ -5665,7 +5665,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1374490/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Runescape Dragonwilds.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Runescape Dragonwilds.zip",
                 "size": "26.3 MB",
                 "badges": [
                     "Online"
@@ -5680,7 +5680,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3949040/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/RVThereYet_Fix_Repair_Steam_V2_Generic.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/RVThereYet_Fix_Repair_Steam_V2_Generic.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -5695,7 +5695,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1643320/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/S.T.A.L.K.E.R. 2 Heart of Chornobyl.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/S.T.A.L.K.E.R. 2 Heart of Chornobyl.zip",
                 "size": "1.0 MB",
                 "badges": [
                     "Bypass"
@@ -5710,7 +5710,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1599660/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Sackboy Big Adventure.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Sackboy Big Adventure.zip",
                 "size": "22.7 MB",
                 "badges": [
                     "Online"
@@ -5725,7 +5725,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/301910/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Saint Row Get Out Of Hell.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Saint Row Get Out Of Hell.zip",
                 "size": "9.2 MB",
                 "badges": [
                     "Bypass"
@@ -5740,7 +5740,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2719200/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Samurai Warriors 4 DX.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Samurai Warriors 4 DX.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -5755,7 +5755,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/526870/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Satisfactory.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Satisfactory.zip",
                 "size": "25.4 MB",
                 "badges": [
                     "Online"
@@ -5770,7 +5770,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3164500/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Schedule 1.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Schedule 1.zip",
                 "size": "20.3 MB",
                 "badges": [
                     "Online",
@@ -5786,7 +5786,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/872670/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/SCP 5k.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/SCP 5k.zip",
                 "size": "9.3 MB",
                 "badges": [
                     "Online"
@@ -5801,7 +5801,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3111080/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Secret Agent Wizard Boy And The International Crime Syndicate.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Secret Agent Wizard Boy And The International Crime Syndicate.zip",
                 "size": "10.6 MB",
                 "badges": [
                     "Online"
@@ -5816,7 +5816,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1702010/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Sengoku Dynasty.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Sengoku Dynasty.zip",
                 "size": "26.6 MB",
                 "badges": [
                     "Online"
@@ -5831,7 +5831,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1252680/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/SENTRY.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/SENTRY.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -5846,7 +5846,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2436940/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Sephiria.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Sephiria.zip",
                 "size": "8.0 MB",
                 "badges": [
                     "Online"
@@ -5861,7 +5861,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/257420/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Serious Sam 4.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Serious Sam 4.zip",
                 "size": "4.2 MB",
                 "badges": [
                     "Online"
@@ -5876,7 +5876,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2201940/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Ship Graveyard Simulator 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Ship Graveyard Simulator 2.zip",
                 "size": "10.8 MB",
                 "badges": [
                     "Bypass"
@@ -5891,7 +5891,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1266540/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Shipts at Sea.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Shipts at Sea.zip",
                 "size": "25.4 MB",
                 "badges": [
                     "Online"
@@ -5906,7 +5906,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/289070/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Sid Meiers Civilization VI.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Sid Meiers Civilization VI.zip",
                 "size": "18.3 MB",
                 "badges": [
                     "Online"
@@ -5921,7 +5921,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1791910/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Silent Rain.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Silent Rain.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -5936,7 +5936,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1575940/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Sins of a Solar Empire II.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Sins of a Solar Empire II.zip",
                 "size": "23.0 MB",
                 "badges": [
                     "Online"
@@ -5951,7 +5951,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1548850/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Six Days in Fallujah.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Six Days in Fallujah.zip",
                 "size": "25.4 MB",
                 "badges": [
                     "Online"
@@ -5966,7 +5966,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2354000/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Slackers Carts of Glory.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Slackers Carts of Glory.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -5981,7 +5981,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/202170/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Sleeping Dogs - FitGirl.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Sleeping Dogs - FitGirl.zip",
                 "size": "7.9 MB",
                 "badges": [
                     "Bypass"
@@ -5989,7 +5989,7 @@
                 "filename": "Sleeping Dogs - FitGirl.zip"
             },
             {
-                "href": "https://generator.ryuu.lol/fixes/Sleeping Dogs Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Sleeping Dogs Bypass.zip",
                 "size": "8.6 MB",
                 "badges": [
                     "Bypass"
@@ -6004,7 +6004,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/307690/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Sleeping Dogs Definitive Edition Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Sleeping Dogs Definitive Edition Bypass.zip",
                 "size": "0.3 MB",
                 "badges": [
                     "Bypass"
@@ -6019,7 +6019,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/SnowRunner.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/SnowRunner.zip",
                 "size": "34.6 MB",
                 "badges": [
                     "Online"
@@ -6034,7 +6034,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1893810/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Solium Infernum.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Solium Infernum.zip",
                 "size": "10.2 MB",
                 "badges": [
                     "Online"
@@ -6049,7 +6049,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2195410/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Songs of Silence.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Songs of Silence.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -6064,7 +6064,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/212480/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Sonic & All-Stars Racing Transformed Collection.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Sonic & All-Stars Racing Transformed Collection.zip",
                 "size": "12.0 MB",
                 "badges": [
                     "Online"
@@ -6079,7 +6079,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2055290/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Sonic.Colors.Ultimate.Crack.Only-voices38.rar?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Sonic.Colors.Ultimate.Crack.Only-voices38.rar",
                 "size": "200.0 MB",
                 "badges": [
                     "Bypass"
@@ -6094,7 +6094,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/637100/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Sonic.Forces-cpy.rar?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Sonic.Forces-cpy.rar",
                 "size": "28.3 KB",
                 "badges": [
                     "Bypass"
@@ -6109,7 +6109,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1237320/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Sonic.Frontiers.Crack.Only-voices38.rar?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Sonic.Frontiers.Crack.Only-voices38.rar",
                 "size": "182.4 MB",
                 "badges": [
                     "Bypass"
@@ -6124,7 +6124,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1326470/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Sons Of The Forest.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Sons Of The Forest.zip",
                 "size": "10.0 MB",
                 "badges": [
                     "Online"
@@ -6139,7 +6139,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/544750/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/SOULCALIBUR VI.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/SOULCALIBUR VI.zip",
                 "size": "4.1 MB",
                 "badges": [
                     "Online"
@@ -6154,7 +6154,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2646460/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Soul Mask.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Soul Mask.zip",
                 "size": "10.8 MB",
                 "badges": [
                     "Online"
@@ -6169,7 +6169,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/213670/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/South_Park_-_The_Stick_of_Truth_Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/South_Park_-_The_Stick_of_Truth_Bypass.zip",
                 "size": "4.4 MB",
                 "badges": [
                     "Bypass"
@@ -6184,7 +6184,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1624060/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Space for Sale.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Space for Sale.zip",
                 "size": "10.6 MB",
                 "badges": [
                     "Online"
@@ -6199,7 +6199,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1732420/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Spanky.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Spanky.zip",
                 "size": "32.7 MB",
                 "badges": [
                     "Online"
@@ -6214,7 +6214,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2620240/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Spectral Scream.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Spectral Scream.zip",
                 "size": "10.6 MB",
                 "badges": [
                     "Online"
@@ -6229,7 +6229,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/231990/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Spider-Man Shattered Dimensions.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Spider-Man Shattered Dimensions.zip",
                 "size": "2.8 MB",
                 "badges": [
                     "Bypass"
@@ -6244,7 +6244,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1592110/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Spirit of the Island.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Spirit of the Island.zip",
                 "size": "5.2 MB",
                 "badges": [
                     "Online"
@@ -6259,7 +6259,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2001120/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Split Fiction.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Split Fiction.zip",
                 "size": "10.2 MB",
                 "badges": [
                     "Online"
@@ -6274,7 +6274,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/393380/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Squad.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Squad.zip",
                 "size": "28.2 MB",
                 "badges": [
                     "Online"
@@ -6289,7 +6289,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2977620/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Squirreled Away.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Squirreled Away.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -6304,7 +6304,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/9900/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Star Trek.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Star Trek.zip",
                 "size": "15.2 MB",
                 "badges": [
                     "Online"
@@ -6319,7 +6319,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1172380/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Star Wars Jedi Fallen Order.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Star Wars Jedi Fallen Order.zip",
                 "size": "261.2 MB",
                 "badges": [
                     "Bypass"
@@ -6334,7 +6334,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1774580/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Star Wars Jedi Survivor.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Star Wars Jedi Survivor.zip",
                 "size": "29.6 MB",
                 "badges": [
                     "Bypass"
@@ -6349,7 +6349,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1237950/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Star Wars Battlefront II.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Star Wars Battlefront II.zip",
                 "size": "64.9 MB",
                 "badges": [
                     "Online"
@@ -6364,7 +6364,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2793380/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Starground.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Starground.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -6379,7 +6379,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3489700/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Stellar.Blade-voices38.rar?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Stellar.Blade-voices38.rar",
                 "size": "158.0 MB",
                 "badges": [
                     "Bypass"
@@ -6394,7 +6394,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1442430/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/StorageHunterSimulator_Fix_Repair_Steam_Generic.rar?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/StorageHunterSimulator_Fix_Repair_Steam_Generic.rar",
                 "size": "9.9 MB",
                 "badges": [
                     "Online"
@@ -6409,7 +6409,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3213600/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Store Wars Multiplayer Shop Simulator.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Store Wars Multiplayer Shop Simulator.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Online"
@@ -6424,7 +6424,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3125250/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/STORROR Parkour Pro.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/STORROR Parkour Pro.zip",
                 "size": "26.4 MB",
                 "badges": [
                     "Online"
@@ -6439,7 +6439,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3075800/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Subterranauts.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Subterranauts.zip",
                 "size": "11.4 MB",
                 "badges": [
                     "Online"
@@ -6454,7 +6454,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2846060/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Subterror.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Subterror.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -6469,7 +6469,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/315210/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Suicide Squad Kill The Justice League.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Suicide Squad Kill The Justice League.zip",
                 "size": "2.0 MB",
                 "badges": [
                     "Online"
@@ -6484,7 +6484,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2670630/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Supermarket_Simulator.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Supermarket_Simulator.zip",
                 "size": "19.1 MB",
                 "badges": [
                     "Online"
@@ -6499,7 +6499,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1601330/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Survival Machine.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Survival Machine.zip",
                 "size": "21.8 MB",
                 "badges": [
                     "Online"
@@ -6514,7 +6514,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2999090/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Survivor World.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Survivor World.zip",
                 "size": "11.4 MB",
                 "badges": [
                     "Online"
@@ -6529,7 +6529,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1763250/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/SWORN.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/SWORN.zip",
                 "size": "26.2 MB",
                 "badges": [
                     "Online"
@@ -6544,7 +6544,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/286160/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Tabletop Simulator.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Tabletop Simulator.zip",
                 "size": "10.6 MB",
                 "badges": [
                     "Online"
@@ -6559,7 +6559,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498130/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Tank Squad.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Tank Squad.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -6574,7 +6574,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2165470/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Taora Survival.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Taora Survival.zip",
                 "size": "10.2 MB",
                 "badges": [
                     "Online"
@@ -6589,7 +6589,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Tekken 7.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Tekken 7.zip",
                 "size": "4.2 MB",
                 "badges": [
                     "Online"
@@ -6604,7 +6604,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2510960/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Temtem Swarm.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Temtem Swarm.zip",
                 "size": "26.4 MB",
                 "badges": [
                     "Online"
@@ -6619,7 +6619,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Terraria.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Terraria.zip",
                 "size": "8.7 MB",
                 "badges": [
                     "Online"
@@ -6634,7 +6634,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3172770/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Terrorbytes.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Terrorbytes.zip",
                 "size": "11.1 MB",
                 "badges": [
                     "Online"
@@ -6649,7 +6649,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2960770/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The Anomaly Project.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The Anomaly Project.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Online"
@@ -6664,7 +6664,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2518430/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The Backrooms Last Expedition.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The Backrooms Last Expedition.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -6679,7 +6679,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/250900/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The Binding of Isaac Rebirth.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The Binding of Isaac Rebirth.zip",
                 "size": "7.9 MB",
                 "badges": [
                     "Bypass"
@@ -6694,7 +6694,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2189670/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The Black Pool.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The Black Pool.zip",
                 "size": "23.7 MB",
                 "badges": [
                     "Online"
@@ -6709,7 +6709,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1281590/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The Dark Pictures Anthology House of Ashes.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The Dark Pictures Anthology House of Ashes.zip",
                 "size": "4.2 MB",
                 "badges": [
                     "Online"
@@ -6724,7 +6724,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1194630/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The Dark Pictures Anthology Little Hope.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The Dark Pictures Anthology Little Hope.zip",
                 "size": "4.2 MB",
                 "badges": [
                     "Online"
@@ -6739,7 +6739,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/939850/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The Dark Pictures Anthology Man of Medan.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The Dark Pictures Anthology Man of Medan.zip",
                 "size": "2.5 MB",
                 "badges": [
                     "Online"
@@ -6754,7 +6754,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1567020/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The Dark Pictures Anthology The Devil in Me.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The Dark Pictures Anthology The Devil in Me.zip",
                 "size": "4.8 MB",
                 "badges": [
                     "Online"
@@ -6769,7 +6769,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/242760/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The Forest Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The Forest Bypass.zip",
                 "size": "17.8 MB",
                 "badges": [
                     "Bypass"
@@ -6784,7 +6784,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2828860/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The Forever Winter.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The Forever Winter.zip",
                 "size": "25.4 MB",
                 "badges": [
                     "Online"
@@ -6799,7 +6799,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2285150/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The Front.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The Front.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Online"
@@ -6814,7 +6814,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3059070/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The Headliners.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The Headliners.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -6829,7 +6829,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/774461/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The Jackbox Party Pack 5.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The Jackbox Party Pack 5.zip",
                 "size": "4.2 MB",
                 "badges": [
                     "Online"
@@ -6844,7 +6844,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2948640/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The Jackbox Survey Scramble.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The Jackbox Survey Scramble.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Online"
@@ -6859,7 +6859,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2757810/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The Jump Guys.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The Jump Guys.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -6874,7 +6874,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The King of Fighters XV.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The King of Fighters XV.zip",
                 "size": "0.7 MB",
                 "badges": [
                     "Online"
@@ -6889,7 +6889,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1564600/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The Last Plague Blight.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The Last Plague Blight.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -6904,7 +6904,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1284190/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The Planet Crafter.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The Planet Crafter.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -6919,7 +6919,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1577120/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The Quarry.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The Quarry.zip",
                 "size": "4.7 MB",
                 "badges": [
                     "Bypass"
@@ -6934,7 +6934,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2904000/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/The Spell Brigade.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/The Spell Brigade.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online",
@@ -6950,7 +6950,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1245250/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Thrive Heavy Lies The Crown.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Thrive Heavy Lies The Crown.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -6965,7 +6965,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2264340/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/TIEBREAK+ Official game of the ATP and WTA.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/TIEBREAK+ Official game of the ATP and WTA.zip",
                 "size": "12.3 MB",
                 "badges": [
                     "Online"
@@ -6980,7 +6980,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3211680/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Tobacco Shop Simulator.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Tobacco Shop Simulator.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Bypass"
@@ -6995,7 +6995,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2455340/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Together in Between.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Together in Between.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -7010,7 +7010,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/460930/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Tom Clancy's Ghost Recon Wildlands.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Tom Clancy's Ghost Recon Wildlands.zip",
                 "size": "29.0 KB",
                 "badges": [
                     "Bypass"
@@ -7025,7 +7025,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/594570/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Total War WARHAMMER II.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Total War WARHAMMER II.zip",
                 "size": "266.8 MB",
                 "badges": [
                     "Online"
@@ -7040,7 +7040,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2113900/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Touge Shakai.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Touge Shakai.zip",
                 "size": "30.3 MB",
                 "badges": [
                     "Online"
@@ -7055,7 +7055,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2178070/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Towers of Aghasba.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Towers of Aghasba.zip",
                 "size": "25.3 MB",
                 "badges": [
                     "Online"
@@ -7070,7 +7070,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2343920/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Trackline Express.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Trackline Express.zip",
                 "size": "10.2 MB",
                 "badges": [
                     "Online"
@@ -7085,7 +7085,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2546690/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Tram Simulator Urban Transit.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Tram Simulator Urban Transit.zip",
                 "size": "25.4 MB",
                 "badges": [
                     "Bypass"
@@ -7100,7 +7100,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1139980/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Travellers Rest.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Travellers Rest.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -7115,7 +7115,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1069650/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Ultimate Admiral Age of Sail.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Ultimate Admiral Age of Sail.zip",
                 "size": "1.8 MB",
                 "badges": [
                     "Bypass"
@@ -7130,7 +7130,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1136380/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Ultimate Fishing Simulator 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Ultimate Fishing Simulator 2.zip",
                 "size": "4.9 MB",
                 "badges": [
                     "Bypass"
@@ -7145,7 +7145,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/357190/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Ultimate Marvel Vs Capcom 3.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Ultimate Marvel Vs Capcom 3.zip",
                 "size": "13.0 MB",
                 "badges": [
                     "Online"
@@ -7160,7 +7160,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2076010/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/UNDER NIGHT IN-BIRTH II Sys Celes.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/UNDER NIGHT IN-BIRTH II Sys Celes.zip",
                 "size": "7.5 MB",
                 "badges": [
                     "Online"
@@ -7175,7 +7175,7 @@
         "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3249560/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Undercover Fools.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Undercover Fools.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -7190,7 +7190,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3025290/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/UNDERWARD.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/UNDERWARD.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Online"
@@ -7205,7 +7205,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2976900/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Unpossess Exorcism Simulator.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Unpossess Exorcism Simulator.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -7220,7 +7220,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2211170/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Unrailed 2 Back on Track.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Unrailed 2 Back on Track.zip",
                 "size": "37.4 MB",
                 "badges": [
                     "Online"
@@ -7235,7 +7235,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1225560/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Unravel.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Unravel.zip",
                 "size": "3.2 MB",
                 "badges": [
                     "Bypass"
@@ -7250,7 +7250,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1225570/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Unravel Two.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Unravel Two.zip",
                 "size": "97.7 MB",
                 "badges": [
                     "Online"
@@ -7265,7 +7265,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2172010/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Until Dawn Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Until Dawn Bypass.zip",
                 "size": "442.1 MB",
                 "badges": [
                     "Bypass"
@@ -7280,7 +7280,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1604030/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/V Rising.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/V Rising.zip",
                 "size": "10.9 MB",
                 "badges": [
                     "Online"
@@ -7295,7 +7295,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/892970/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Valheim.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Valheim.zip",
                 "size": "0.4 MB",
                 "badges": [
                     "Online"
@@ -7310,7 +7310,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1857950/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/VEIN_Fix_Repair_Steam_Generic.rar?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/VEIN_Fix_Repair_Steam_Generic.rar",
                 "size": "10.1 MB",
                 "badges": [
                     "Online"
@@ -7325,7 +7325,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3112260/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Virtua Fighter 5 REVO.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Virtua Fighter 5 REVO.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online",
@@ -7341,7 +7341,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1159690/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Voidtrain.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Voidtrain.zip",
                 "size": "15.7 MB",
                 "badges": [
                     "Online"
@@ -7349,7 +7349,7 @@
                 "filename": "Voidtrain.zip"
             },
             {
-                "href": "https://generator.ryuu.lol/fixes/Voidtrain_Fix_Repair_Steam_Generic.rar?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Voidtrain_Fix_Repair_Steam_Generic.rar",
                 "size": "22.4 MB",
                 "badges": [
                     "Online"
@@ -7364,7 +7364,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/951440/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Volcanoids.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Volcanoids.zip",
                 "size": "4.9 MB",
                 "badges": [
                     "Online"
@@ -7379,7 +7379,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2009460/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/War of Wizards.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/War of Wizards.zip",
                 "size": "10.2 MB",
                 "badges": [
                     "Online"
@@ -7394,7 +7394,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1361210/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Warhammer 40,000 Darktide.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Warhammer 40,000 Darktide.zip",
                 "size": "8.4 MB",
                 "badges": [
                     "Online"
@@ -7409,7 +7409,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3169520/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Warhammer 40,000 Space Marine Master Crafted Edition.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Warhammer 40,000 Space Marine Master Crafted Edition.zip",
                 "size": "26.1 MB",
                 "badges": [
                     "Online"
@@ -7424,7 +7424,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2183900/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Warhammer 40,000 Space Marine 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Warhammer 40,000 Space Marine 2.zip",
                 "size": "119.5 MB",
                 "badges": [
                     "Online"
@@ -7439,7 +7439,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/552500/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Warhammer Vermintide 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Warhammer Vermintide 2.zip",
                 "size": "50.6 MB",
                 "badges": [
                     "Online"
@@ -7454,7 +7454,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2239550/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Watch Dogs Legion Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Watch Dogs Legion Bypass.zip",
                 "size": "285.6 MB",
                 "badges": [
                     "Bypass",
@@ -7470,7 +7470,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/447040/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Watch Dogs 2 UB Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Watch Dogs 2 UB Bypass.zip",
                 "size": "22.1 MB",
                 "badges": [
                     "Bypass",
@@ -7486,7 +7486,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/243470/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Watch_Dogs Ubisoft Bypass.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Watch_Dogs Ubisoft Bypass.zip",
                 "size": "43.3 MB",
                 "badges": [
                     "Bypass",
@@ -7502,7 +7502,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1288320/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Way of the Hunter.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Way of the Hunter.zip",
                 "size": "0.2 MB",
                 "badges": [
                     "Bypass"
@@ -7517,7 +7517,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/865360/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/We Were Here Together.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/We Were Here Together.zip",
                 "size": "4.3 MB",
                 "badges": [
                     "Online"
@@ -7532,7 +7532,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2920510/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Werewolf Party.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Werewolf Party.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -7547,7 +7547,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2193540/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Wizard of Legend 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Wizard of Legend 2.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
@@ -7562,7 +7562,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1448440/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Wo Long Fallen Dynasty.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Wo Long Fallen Dynasty.zip",
                 "size": "6.7 MB",
                 "badges": [
                     "Bypass"
@@ -7577,7 +7577,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1866980/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Worlds of Aria.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Worlds of Aria.zip",
                 "size": "26.3 MB",
                 "badges": [
                     "Online"
@@ -7592,7 +7592,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/217200/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Worms Armageddon.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Worms Armageddon.zip",
                 "size": "7.3 MB",
                 "badges": [
                     "Online"
@@ -7607,7 +7607,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3533100/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Wrap House Simulator.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Wrap House Simulator.zip",
                 "size": "10.5 MB",
                 "badges": [
                     "Online"
@@ -7622,7 +7622,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1203190/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Wreckfest 2.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Wreckfest 2.zip",
                 "size": "21.9 MB",
                 "badges": [
                     "Online",
@@ -7638,7 +7638,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1481170/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/ZEPHON.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/ZEPHON.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Bypass"
@@ -7653,7 +7653,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2268560/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Zombie Survival Game.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Zombie Survival Game.zip",
                 "size": "9.4 MB",
                 "badges": [
                     "Online"
@@ -7668,7 +7668,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1801520/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/Zombieville USA 3D.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/Zombieville USA 3D.zip",
                 "size": "10.3 MB",
                 "badges": [
                     "Online"
@@ -7683,7 +7683,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3121110/header.jpg",
         "fixes": [
             {
-                "href": "https://generator.ryuu.lol/fixes/ZORT.zip?auth_code=RYUUMANIFESTp52byv",
+                "href": "https://generator.ryuu.lol/fixes/ZORT.zip",
                 "size": "10.4 MB",
                 "badges": [
                     "Online"
