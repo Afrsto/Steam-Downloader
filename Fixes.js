@@ -7262,7 +7262,7 @@
         "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2680010/header.jpg",
         "fixes": [
             {
-                "href": "https://ts.buzzheavier.com/d/soumg1t8d9or?v=RTk1mrQIl7Sq-0lR4l7JlbdF5-D9uY07HHRH1xky9QKzkkfDbNfvHv3Q68T7zv_x4_VCQ4pjujE09-fTUe68ed2CSyDSOe71yfL2fEnBTVHbn_j2a0FPrLeNQO4DznQIo1z-syLYMqubPIWSuJWut8AZt0edO1NStN1Lj5xDRtT__oyNXlhT5saEsTSIHTCra4YPC1MO7UcX6BnQKBnCpeXtGPArtiLbfoyxnlx7PlPDYqEKZy7M",
+                "href": "https://buzzheavier.com/soumg1t8d9or",
                 "size": "146 MB",
                 "badges": [
                     "Bypass"
