@@ -5330,7 +5330,7 @@
                 "href": "https://generator.ryuu.lol/fixes/R.E.P.O.zip",
                 "size": "11.1 MB",
                 "badges": [
-                    "Online"
+                    "Tested"
                 ],
                 "filename": "R.E.P.O.zip"
             },
