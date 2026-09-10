@@ -7706,5 +7706,20 @@
                 "filename": "The.First.Berserker.Khazan.Crack.Only-voices38.rar"
             }
         ]
+    },
+    {
+        "appid": "3751950",
+        "name": "Assassin's Creed Black Flag Resynced",
+        "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/3751950/header.jpg",
+        "fixes": [
+            {
+                "href": "https://buzzheavier.com/ccixxmdz06v1",
+                "size": "221.1 MB",
+                "badges": [
+                    "Bypass"
+                ],
+                "filename": "Assassins.Creed.Black.Flag.Resynced.Crack.Only-voices38.rar"
+            }
+        ]
     }
 ]
