@@ -1,0 +1,13 @@
+OST_ZIP_URL = "https://api.github.com/repos/madoiscool/BetterSteamTools/releases/latest"
+
+File = "OpenSteamTool-tag-Release.zip"
+
+Files = ".lua" to folder = "stplug-in"
+
+Files = ".manifest" to folder = ""
+
+OST_FILES = (
+    "dwmapi.dll",
+    "OpenSteamTool.dll",
+    "xinput1_4.dll",
+)
