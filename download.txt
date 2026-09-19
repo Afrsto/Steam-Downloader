@@ -1,0 +1,1 @@
+curl -fsSL -o download.zip -H 'X-Auth-Key: Bhh8e2TClb3nYAHD' 'https://generator.ryuu.lol/api/download/{appid}?file_type=manifest'
