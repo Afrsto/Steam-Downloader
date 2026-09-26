@@ -1,0 +1,4 @@
+# Steam Downloader — HWID bindings
+# Format:
+# KEY=
+# [HWID]HASH
